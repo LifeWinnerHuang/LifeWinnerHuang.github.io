@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on RENFEI HUANG</title>
+    <title>Homes on RENFEI HUANG @HKUST VISLab</title>
     <link>https://lifewinnerhuang.github.io/home/</link>
-    <description>Recent content in Homes on RENFEI HUANG</description>
+    <description>Recent content in Homes on RENFEI HUANG @HKUST VISLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; Renfei HUANG 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://lifewinnerhuang.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://lifewinnerhuang.github.io/home/about/</guid>
-      <description>Biography Renfei HUANG is currently a first year Ph.D. student at the Hong Kong University of Science and Technology.</description>
+      <description>Biography Renfei is currently a first-year Ph.D. student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology. He’s supervisor is Prof. QU Huamin (http://huamin.org). He is a member of VisLab at HKUST (http://vis.cse.ust.hk/). In his spare time, he enjoys swimming and dancing, such as Tango or Latin. He is a fan of Hi-Fi music devices.</description>
     </item>
     
     <item>
@@ -54,11 +54,20 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://lifewinnerhuang.github.io/home/projects/</guid>
-      <description></description>
+      <description> UlTraMan: A Unified Platform for Big Trajectory Data Management and Analytics (VLDB) SP-Cache: Load-balanced, Redundancy-free Cluster Caching with Selective Partition (SC18)  </description>
     </item>
     
     <item>
       <title>Awards</title>
+      <link>https://lifewinnerhuang.github.io/home/awards/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://lifewinnerhuang.github.io/home/awards/</guid>
+      <description> First-Class Scholarship for Elite Students in Basic Science (Top 5% in College of Computer Science, 3 times in 2015, 2016 and 2017) Second-Class Scholarship for Outstanding Merits (Top 3 in class), 2015 Huawei PhD Fellowship Scheme (HPFS), 2018  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
       <link>https://lifewinnerhuang.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
